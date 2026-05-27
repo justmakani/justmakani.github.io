@@ -1,5 +1,8 @@
 {
    #gameframe {
-   border: none;
+      border: none;
    }
+   html {
+      background-color: 'red';
+     }
 }
