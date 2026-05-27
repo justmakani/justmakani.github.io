@@ -2,6 +2,9 @@
    #gameframe {
       border: none;
    }
+   #italic {
+      font-style: italic;
+   }
    body {
       background-color: powderblue;
     }
