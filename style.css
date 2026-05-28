@@ -1,9 +1,17 @@
-   #gameframe {
-      border: none;
-   }
-   #italic {
-      font-style: italic;
-   }
-   body {
-      background-color: powderblue;
-    }
+#gameframe {
+   border: none;
+
+}
+#italic {
+   font-style: italic;
+}
+
+#title {
+   font-family: "Montserrat";
+   font-weight: 900;
+}
+
+body {
+   background-color: black;
+   color: white;
+}
