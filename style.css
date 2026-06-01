@@ -6,6 +6,10 @@ body {
    padding: 0;
 }
 
+#italic {
+   font-style: italic;
+}
+
 .hero {
    text-align: center;
    padding: 60px 20px;
@@ -78,4 +82,10 @@ body {
    color: #666666;
    font-size: 14px;
    line-height: 1.7;
+}
+
+.feedback {
+   padding: 40px 20px;
+   max-width: 640px;
+   margin: 0 auto;
 }
