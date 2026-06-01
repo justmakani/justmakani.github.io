@@ -75,7 +75,7 @@ FOOTER
 | Text Color | White | `#FFFFFF` |
 
 ## Why I Chose These Colors
-
+cuz i did
 
 ---
 
