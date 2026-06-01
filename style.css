@@ -24,21 +24,6 @@ body {
    margin-bottom: 30px;
 }
 
-.btn {
-   background-color: #3ddc5a;
-   color: black;
-   font-family: "Montserrat", sans-serif;
-   font-weight: bold;
-   font-size: 14px;
-   text-decoration: none;
-   padding: 10px 30px;
-   display: inline-block;
-}
-
-.btn:hover {
-   background-color: #55ee70;
-}
-
 .info {
    display: flex;
 }
