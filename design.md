@@ -60,7 +60,6 @@ FOOTER
 ## Layout Notes
 - The navigation bar will stay at the top.
 - The playable game will be centered on the page.
-- The website should work well on both desktop and mobile screens.
 
 ---
 
@@ -76,7 +75,7 @@ FOOTER
 | Text Color | White | `#FFFFFF` |
 
 ## Why I Chose These Colors
-I chose these colors because they match the futuristic space theme of my game and make the website feel energetic and modern.
+
 
 ---
 
@@ -85,10 +84,8 @@ I chose these colors because they match the futuristic space theme of my game an
 ## Overall Tone
 The tone of my website will be:
 
-- Fun
-- Energetic
-- Competitive
-- Retro arcade-inspired
+- Modern
+- Retro
 
 ## Writing Style
 The writing on the page will:
@@ -131,22 +128,10 @@ The writing on the page will:
 
 ---
 
-# 8. Timeline
-
-| Task | Estimated Completion |
-|---|---|
-| Planning Document | Monday |
-| HTML Structure | Tuesday |
-| CSS Styling | Wednesday |
-| Testing and Improvements | Thursday |
-| Final Submission | Friday |
-
----
-
 # 9. Reflection
 
 ## What I Think Will Be Most Challenging
-The hardest part will probably be making the layout look professional and making the website responsive on different screen sizes.
+The hardest part for me will be like making the website look cool without hard edges and stuff, and scaling for different screens.
 
 ## What I Am Most Excited About
-I am most excited about customizing the visual design and sharing my game online using GitHub Pages.
+I'm most excited about being able to customize the site how i'd like it.
